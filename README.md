@@ -1,9 +1,16 @@
 # School Timetable Generator
+[![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/) 
+![algorithms](https://img.shields.io/badge/algorithms-white?style=for-the-badge&labelColor=black&color=black) 
+[![VSC](https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)](https://code.visualstudio.com/)
+
 
 ## Project Description
 The **Time Table Generator** is a Python-based project developed by Netra Gupta and Tarun G. It automates the process of generating timetables for schools, reducing manual effort and time wastage. The project ensures a balanced distribution of subjects and schedules for all classes and teachers throughout the academic year.
 
 For comprehensive details about the project, please consult the document titled "Project Documentation.pdf."
+
+## Value Proposition
+The School Timetable Generator distinguishes itself as a pivotal solution for educational institutions. Unlike expensive commercial alternatives, our project offers comparable functionality at an unprecedented level of affordability. By adeptly addressing challenges such as teacher lecture/classroom conflicts, it simplifies scheduling processes, leading to significant improvements in administrative efficiency and overall operational effectiveness. Moreover, its flexibility allows for easy customization to meet specific user needs.
 
 ## Objective
 The primary objectives of the project include:
